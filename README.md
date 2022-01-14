@@ -11,7 +11,14 @@
 
 - 📫 How to reach me **snacksncode@gmail.com**
 
-<h3 align="left">You can find my old projects here:</h3>
+<div>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=snacksncode&show_icons=true&theme=dark&locale=en" alt="snacksncode" /></p>
+
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=snacksncode&show_icons=true&theme=dark&locale=en&layout=compact" alt="snacksncode" /></p>
+</div>
+<br/>
+
+<h3 align="left">You can find my old mini-projects here:</h3>
 <p align="left">
 <a href="https://codepen.io/snacksncode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="snacksncode" height="30" width="40" /></a>
 </p>
