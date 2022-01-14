@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **snacksncode@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">You can find my old projects here:</h3>
 <p align="left">
 <a href="https://codepen.io/snacksncode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="snacksncode" height="30" width="40" /></a>
 </p>
