@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm snacksncode</h1>
+<h1 align="center">Hi 👋, I'm <span>snacksncode</span></h1>
 <h3 align="center">I'm a passionate Front-End developer. I strive to create awesome experiences</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=snacksncode&label=Profile%20views&color=0e75b6&style=flat" alt="snacksncode" /> </p>
@@ -12,9 +12,9 @@
 - 📫 How to reach me **snacksncode@gmail.com**
 
 <div>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=snacksncode&show_icons=true&theme=dark&locale=en" alt="snacksncode" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api?username=snacksncode&show_icons=true&theme=dracula&locale=en" alt="snacksncode" /></p>
 
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=snacksncode&show_icons=true&theme=dark&locale=en&layout=compact" alt="snacksncode" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=snacksncode&show_icons=true&theme=dracula&locale=en&layout=compact" alt="snacksncode" /></p>
 </div>
 <br/>
 
