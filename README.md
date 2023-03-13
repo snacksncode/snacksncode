@@ -2,7 +2,7 @@
 <h3 align="center">I'm a passionate Front-End developer. I strive to create awesome experiences</h3>
 <br/><br/>
 
-- 🌱 I’m currently learning **All things Front-End and a little bit of Rust. I need some brushing up on Data Structures and Algorithms**
+- 🌱 I’m currently learning **All things Front-End & React. Brushing up on Data Structures and Algorithms...**
 
 - 💬 Ask me about **React, Next.JS and CSS (SCSS)**
 
